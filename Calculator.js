@@ -7,6 +7,6 @@ $(document).ready(function(){
 
 var result=$('#result').add (inputNum);
 
-
+;;;;;
 
 
