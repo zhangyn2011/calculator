@@ -21,6 +21,7 @@ input[type=button]{
 	width:125px;
 	height: 20px;
 	font-size:16px;
+	font-family: Tahoma;
 	color:#0CF;
 	text-align:right;
 }
